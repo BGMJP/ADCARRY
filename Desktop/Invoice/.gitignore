@@ -1,0 +1,13 @@
+# PyInstaller가 생성하는 폴더
+/build/
+/dist/
+
+# PyInstaller 스펙 파일
+*.spec
+
+# 파이썬 캐시 파일
+__pycache__/
+*.pyc
+
+# 프로그램이 자동으로 생성하는 설정 및 프리셋 파일
+*.json
